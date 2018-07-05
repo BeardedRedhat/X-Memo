@@ -1,0 +1,50 @@
+body {
+    font-size:13px;
+    font-family: 'Open Sans', "Helvetica", sans-serif;
+    /*background-color: #989898 !important;*/
+}
+
+div.title {
+    font-size:20px;
+    text-align:center;
+    padding-top:10px;
+    width:100%;
+}
+
+
+/***** Input Block Style *****/
+.input-block > input[type='text']:not(:first-of-type):not(:last-of-type),
+.input-block > span:not(:first-of-type):not(:last-of-type),
+.input-block > .input-group:not(:first-of-type):not(:last-of-type) > input[type='text'],
+.input-block > .input-group:not(:first-of-type):not(:last-of-type) > .input-group-addon {
+    border-bottom: 0 !important;
+    border-top: 0 !important;
+    border-radius: 0 !important;
+}
+
+.input-block > input[type='text']:first-of-type,
+.input-block > span:first-of-type,
+.input-block > .input-group:first-of-type > input[type='text'],
+.input-block > .input-group:first-of-type > .input-group-addon {
+    border-bottom: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.input-block > input[type='text']:last-of-type,
+.input-block > span:last-of-type,
+.input-block > .input-group:last-of-type > input[type='text'],
+.input-block > .input-group:last-of-type > .input-group-addon {
+    border-top: 0 !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
+.input-block > .input-group {
+    width: 100%;
+}
+
+.input-block > .input-group > .input-group-addon {
+    width: 40px;
+    text-align: center;
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    
+<xs:element name="archive">
+    <xs:complexType>
+        <xs:sequence>
+
+            <xs:element name="memos">
+                <xs:complexType>
+                    <xs:sequence>
+
+                        <xs:element name="memo" maxOccurs="unbounded">
+                            <xs:complexType>
+                                <xs:sequence>
+
+                                    <xs:element name="title" maxOccurs="1" >
+                                        <xs:simpleType>
+                                            <xs:restriction base="xs:string">
+                                                <xs:maxLength value="50" />
+                                            </xs:restriction>
+                                        </xs:simpleType>
+                                    </xs:element>
+                                    <xs:element name="author" maxOccurs="1" >
+                                        <xs:simpleType>
+                                            <xs:restriction base="xs:string">
+                                                <xs:maxLength value="50" />
+                                            </xs:restriction>
+                                        </xs:simpleType>
+                                    </xs:element>
+                                    <xs:element name="recipient" maxOccurs="10">
+                                        <xs:simpleType>
+                                            <xs:restriction base="xs:string">
+                                                <xs:maxLength value="50" />
+                                            </xs:restriction>
+                                        </xs:simpleType>
+                                    </xs:element>
+                                    <xs:element name="date" type="xs:date" maxOccurs="1" />
+                                    <xs:element name="body" maxOccurs="1" >
+                                        <xs:simpleType>
+                                            <xs:restriction base="xs:string">
+                                                <xs:maxLength value="1000" />
+                                            </xs:restriction>
+                                        </xs:simpleType>
+                                    </xs:element>
+                                    <xs:element name="url" type="xs:string" maxOccurs="1" />
+
+                                </xs:sequence>
+                                <xs:attribute name="id" type="xs:integer" use="required"/>
+                            </xs:complexType>
+                        </xs:element>
+
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:element>
+
+</xs:schema>

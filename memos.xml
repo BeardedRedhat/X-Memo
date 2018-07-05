@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<archive xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="memos.xsd">
+  <memos>
+    <memo id="13">
+      <title>sdcsdcdsc</title>
+      <author>scsdcdscdsc</author>
+      <recipient>sjdhbsdkcgvsdkhc</recipient>
+      <recipient>hgkv</recipient>
+      <date>2018-10-10</date>
+      <body>jkvhhgvkhgvhjgvhkvhkv</body>
+      <url>-</url>
+    </memo>
+    <memo id="12">
+      <title>This is a test</title>
+      <author>Jane Doe</author>
+      <recipient>Adam Campbell</recipient>
+      <recipient>Mattie Simms</recipient>
+      <recipient>Luke Rusk</recipient>
+      <recipient>Niall Stevenson</recipient>
+      <recipient>Chris McFarland</recipient>
+      <date>2017-10-19</date>
+      <body>18 Old Grange Mill </body>
+      <url>www.ebay.co.uk</url>
+    </memo>
+    <memo id="11">
+      <title>Further information on Assignment A </title>
+      <author>John Dier</author>
+      <recipient>Bob Dylan</recipient>
+      <date>2017-10-17</date>
+      <body>This is a test mate. Please ignore this Bob Dylan</body>
+      <url>-</url>
+    </memo>
+    <memo id="10">
+      <title>Memoinator</title>
+      <author>Matthew Stevenson</author>
+      <recipient>Luke Campbell</recipient>
+      <recipient>Andrew Doherty</recipient>
+      <date>2017-10-17</date>
+      <body> xcldjsc db dsckhsd cdscb dmdhsc dskchds cdksjgc dslcjds cdskc s</body>
+      <url>www.google.co.uk</url>
+    </memo>
+    <memo id="9">
+      <title>Christmas dinner deposit now due</title>
+      <author>Amy Reid</author>
+      <recipient>Rodrick Patterson</recipient>
+      <recipient>Heather Clarke</recipient>
+      <recipient>Ailene Hughes</recipient>
+      <recipient>Sam McDonald</recipient>
+      <recipient>Aaron McFarland</recipient>
+      <date>2017-10-16</date>
+      <body>Christmas deposits are now due for Lavs, the dinner &amp; dessert cost &#xA3;38 each. &#xA3;25 each will be given to you on the night from the company credit card so don't panic! </body>
+      <url>https://www.w3schools.com</url>
+    </memo>
+    <memo id="8">
+      <title>Project dissertation meeting</title>
+      <author>Aaron McFarland</author>
+      <recipient>Kimmy Jimmel</recipient>
+      <date>2017-10-14</date>
+      <body>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</body>
+      <url>https://www.w3schools.com</url>
+    </memo>
+    <memo id="7">
+      <title>Project dissertation meeting</title>
+      <author>Aaron McFarland</author>
+      <recipient>Kimmy Jimmel</recipient>
+      <date>2017-10-14</date>
+      <body>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</body>
+      <url>https://www.w3schools.com</url>
+    </memo>
+    <memo id="6">
+      <title>Attaching cover sheets to TPS reports</title>
+      <author>John Doe</author>
+      <recipient>Paul Sharf</recipient>
+      <recipient>Edward Snowden</recipient>
+      <recipient>Steve Gates</recipient>
+      <recipient>Bill Jobs</recipient>
+      <date>2017-10-06</date>
+      <body>This is to remind the division that, starting today, we are now filing all Testing Procedure Specification (TPS) reports with new cover sheets. The reason for this change is simple. In addition to a new format, the cover sheets provide a summary of the report as well as the updated legal copy. The new cover sheets also include Initech's new logo.</body>
+      <url>https://www.w3schools.com</url>
+    </memo>
+    <memo id="5">
+      <title>Changes to the work rota next week</title>
+      <author>Amy Reid</author>
+      <recipient>Roddy Morrison</recipient>
+      <recipient>Heather Clarke</recipient>
+      <recipient>Matthew McWhinney</recipient>
+      <date>2017-10-12</date>
+      <body>For anyone working on the Thursday, we are now opening at 10:30 instead of 10. Friday will resume normal times.</body>
+      <url>https://www.w3schools.com</url>
+    </memo>
+    <memo id="4">
+      <title>Mom, I'm dropping out of uni</title>
+      <author>Aaron McFarland</author>
+      <recipient>Mom McMomerson</recipient>
+      <recipient>Dave Franco</recipient>
+      <recipient>James McIlhenney</recipient>
+      <recipient>Matthew Warwick</recipient>
+      <date>2017-10-10</date>
+      <body>Thats it.</body>
+      <url>https://www.w3schools.com</url>
+    </memo>
+    <memo id="3">
+      <title>Formal fees due in two weeks</title>
+      <author>John Doe</author>
+      <recipient>Jane Doe</recipient>
+      <recipient>Harry Brown</recipient>
+      <recipient>Lucy Kyle</recipient>
+      <date>2017-10-05</date>
+      <body>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat.</body>
+      <url>https://www.w3schools.com</url>
+    </memo>
+    <memo id="2">
+      <title>Creating 2-Dimensional Arrays in PHP</title>
+      <author>Eric Stevenson</author>
+      <recipient>Linda Stevenson</recipient>
+      <recipient>Lucy Kyle</recipient>
+      <date>2017-10-06</date>
+      <body>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</body>
+      <url>https://www.w3schools.com</url>
+    </memo>
+    <memo id="1">
+      <title>Welcome to COM506</title>
+      <author>Jimmy Henderson</author>
+      <recipient>Adam Owens</recipient>
+      <recipient>Linda Stevenson</recipient>
+      <recipient>Jane Doe</recipient>
+      <recipient>Eric Stevenson</recipient>
+      <date>2017-10-06</date>
+      <body> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </body>
+      <url>https://www.w3schools.com</url>
+    </memo>
+  </memos>
+</archive>
