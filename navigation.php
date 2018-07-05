@@ -18,9 +18,6 @@
 </style>
 
 <nav class="navbar navbar-default">
-    <div class="pull-right" style="height:45px; color:white; padding:12px 25px 0 25px; margin-top:4px">
-        B00659451
-    </div>
     <div class="pull-left">
         <img src="img/profilePic.png" class="img-circle" style="height:35px; width:35px; margin:8px 15px 8px 15px;" />
     </div>

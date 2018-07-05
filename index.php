@@ -139,7 +139,7 @@ require "navigation.php"; ?>
 <div class="container-fluid">
     <div class="row-fluid">
         <div class="col-xs-12 title" align="center">
-            COM506 Assignment A: XML and its Applications<br /><br />
+            COM506: XML and its Applications<br /><br />
             X-Memo Archive<hr />
         </div>
     </div>
